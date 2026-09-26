@@ -35,3 +35,12 @@ study-planner/
 ├── project/
 ├── README.md
 └── ibm smart study planner.pptx
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/satyasahithi07/study-planner.git
