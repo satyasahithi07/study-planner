@@ -44,3 +44,13 @@ study-planner/
 
 ```bash
 git clone https://github.com/satyasahithi07/study-planner.git
+### 2. Navigate to the Project Directory
+
+```bash
+cd study-planner/project
+
+### 3. Run the Application
+
+Open the main HTML file in the `project` folder using a web browser.
+
+The application runs directly in the browser and does not require any additional server setup.
